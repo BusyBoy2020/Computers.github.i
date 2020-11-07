@@ -1,2 +1,2 @@
-# Computers.github.i
+# Computers.github.io
 Computer Hardware 
